@@ -1,0 +1,14 @@
+#parent {
+    background-image: url(./123.jpg);
+    height: 600px;
+    width: 900px;
+}
+#box {
+    border: 2px solid rgba(143, 6, 6, 0.753);
+    background-color: rgb(11, 110, 19);
+    margin-bottom: 30px;
+}
+#box :hover{
+    border: 2px solid blue;
+    background-color: chartreuse;
+}
